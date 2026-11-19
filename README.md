@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230235
+# Name: SADHANA S
+# Date: 19/11/2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1021" height="832" alt="image" src="https://github.com/user-attachments/assets/4352e02d-c98e-4095-a951-289fbd242aef" />
 
 
 
@@ -60,6 +61,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1004" height="699" alt="image" src="https://github.com/user-attachments/assets/78ecdd85-152a-443d-ab77-4c28e4eeff0f" />
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -68,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1034" height="906" alt="image" src="https://github.com/user-attachments/assets/7fcb616b-a8c9-44a2-a3ed-a12602e90183" />
 
 
 # PACKAGE DIAGRAM:
@@ -80,8 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
-
+<img width="897" height="618" alt="image" src="https://github.com/user-attachments/assets/c0731d81-a82f-4729-8e11-e245d30f26f2" />
 
 
 
@@ -97,8 +100,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
+<img width="879" height="863" alt="image" src="https://github.com/user-attachments/assets/01558cc7-bcf3-4569-8c52-0ec9a8a5758e" />
 
 
 # SEQUENCE DIAGRAM
@@ -120,6 +122,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="912" height="767" alt="image" src="https://github.com/user-attachments/assets/344f59d7-92f7-4b1f-becc-4dfbad860af6" />
 
 
 
